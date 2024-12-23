@@ -3,4 +3,9 @@ layout: me
 title: me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+**Business Analyst**, работаю в [Яндекс.Автономный транспорт](https://sdg.yandex.ru/main/index)
+* [YANDEX](https://sdg.yandex.ru/main/index) – Бизнес-аналитик (07.2024 - ... )
+* [ZYFRA](https://www.zyfra.com/ru/) – Старший системный аналитик (04.2024 – 07.2024); Старший бизнес-аналитик (08.2023 – 04.2024)
+* [BIOCAD](https://biocad.ru/) – Бизнес-аналитик (04.2022 – 07.2023); Младший бизнес-аналитик (12.2020 – 04.2022); Стажер бизнес-аналитик (01.2020 – 03.2020)
+
+<figure> <img src="/assets/img/anka.png" alt="Аватар"></figure>

@@ -1,11 +1,14 @@
-tag1:
-  name: tag1
+requirements:
+  name: requirements
 
-tag2:
-  name: tag2
+processes:
+  name: processes
 
-tag3:
-  name: tag3
+salary:
+  name: salary
 
-tag4:
-  name: tag4
+templates:
+  name: templates
+
+analysis:
+  name: analysis
