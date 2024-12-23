@@ -8,4 +8,4 @@ title: me
 * [ZYFRA](https://www.zyfra.com/ru/) – Старший системный аналитик (04.2024 – 07.2024); Старший бизнес-аналитик (08.2023 – 04.2024)
 * [BIOCAD](https://biocad.ru/) – Бизнес-аналитик (04.2022 – 07.2023); Младший бизнес-аналитик (12.2020 – 04.2022); Стажер бизнес-аналитик (01.2020 – 03.2020)
 
-<figure> <img src="/assets/img/anka.png" alt="Аватар"></figure>
+<div style="text-align: center;"> <img src="/assets/img/anka.png" width="300px" height="300px" alt="Аватар"></div>
